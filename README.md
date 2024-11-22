@@ -19,5 +19,5 @@
 
 ## Alu.hdl
 
-<img src="./Alu.hdl"/>
+<img src="./Alu.png"/>
 
